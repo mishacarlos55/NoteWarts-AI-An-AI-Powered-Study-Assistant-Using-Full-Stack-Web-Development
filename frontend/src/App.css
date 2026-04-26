@@ -835,7 +835,7 @@ select {
   }
 }
 .castle-card {
-  background-image: url("C:\Users\kamal\OneDrive\Desktop\6TH SEM\full stack 6sem\AI Study assistant\frontend\public\images\castle.jpg");
+  background-image: url("/images/castle.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -859,7 +859,7 @@ select {
 }
 
 .dashboard-container {
-  background-image: url("C:\Users\kamal\OneDrive\Desktop\6TH SEM\full stack 6sem\AI Study assistant\frontend\public\images\ground.jpg");
+  background-image: url("/images/ground.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
